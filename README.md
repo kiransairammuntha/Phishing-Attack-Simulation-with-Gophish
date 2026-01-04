@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Gophish Phishing Simulation Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/gophish/gophish/master/static/images/gophish_purple.png" alt="Gophish Logo" width="300">
 </p>
+
+<h1 align="center">🎣 Phishing Attack Simulation with Gophish</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
