@@ -318,8 +318,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
----
-
 📞 Contact & Support
 
 Project Repository: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish
