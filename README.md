@@ -44,8 +44,7 @@ Whether you're a security professional, IT administrator, or startup founder —
 - [📁 Project Structure](#-project-structure)
 - [🗺️ Roadmap](#️-roadmap)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📬 Contact](#-contact)
+- [📞 Contact & Support](#-contact--support)
 
 ---
 
