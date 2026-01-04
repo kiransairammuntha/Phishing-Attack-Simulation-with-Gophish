@@ -16,6 +16,24 @@
 
 ---
 
+## 🎯 Project Aim
+
+> **"The best defense against phishing isn't technology — it's prepared people."**
+
+In a world where **91% of cyberattacks begin with a phishing email**, organizations can no longer rely solely on spam filters and firewalls. This project aims to:
+
+🛡️ **Empower organizations** to proactively test their human firewall before real attackers do
+
+🎓 **Transform employees** from security vulnerabilities into security assets through hands-on learning
+
+📊 **Provide measurable insights** into organizational security posture and awareness gaps
+
+⚡ **Democratize security testing** by making enterprise-grade phishing simulation accessible to startups and small teams
+
+Whether you're a security professional, IT administrator, or startup founder — this guide will help you build a culture of security awareness, one simulated phish at a time.
+
+---
+
 ## 📑 Table of Contents
 
 - [🔍 Overview](#-overview)
@@ -300,28 +318,19 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
+---
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+📞 Contact & Support
+
+Project Repository: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish
+Issues: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/issues
+Discussions: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/discussions
 
 ---
 
-## 📬 Contact
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-<p align="center">
-  Built with ❤️ for Security Awareness
-</p>
+<div align="center">
+Built with ❤️ for Security Awareness
+Empowering Organizations to Test Their Human Firewall
+Open-Source Tools • Enterprise Results • Production-Ready
+⬆ Back to Top
+</div>
