@@ -318,17 +318,37 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-📞 Contact & Support
+## 📄 License
 
-Project Repository: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish
-Issues: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/issues
-Discussions: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/discussions
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📞 Contact & Support
+
+- **Project Repository**: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish
+- **Issues**: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/issues
+- **Discussions**: https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/discussions
+
+---
+
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish?style=social)
+![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish)
 
 ---
 
 <div align="center">
-Built with ❤️ for Security Awareness
-Empowering Organizations to Test Their Human Firewall
-Open-Source Tools • Enterprise Results • Production-Ready
-⬆ Back to Top
+
+**Built with ❤️ for Security Awareness**
+
+**Empowering Organizations to Test Their Human Firewall**
+
+**Open-Source Tools • Enterprise Results • Production-Ready**
+
+[⬆ Back to Top](#-phishing-attack-simulation-with-gophish)
+
 </div>
